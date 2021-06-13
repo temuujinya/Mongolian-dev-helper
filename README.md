@@ -21,23 +21,24 @@
 	"a","b","v","g","d",
 	"ye","yo","j","z","i",
 	"i","k","l","m","n",
-	"o","u","p","r","s",
-	"t","u","u","f","x",
+	"o","ö","p","r","s",
+	"t","u","ü","f","x",
 	"ts","ch","sh","sh","i",
-	"i","i","e","yu","ya"
+	"i","y","e","yu","ya"
 ]
 ```
 
 #### Cyrillic to Mongolian mapping
+Following [MNS 5217 : 2012 standard](https://estandard.gov.mn/standard/v/4635), following [article on goog.mn](https://gogo.mn/r/101115?fbclid=IwAR3dqT9nqimcDi_VbHeJ5p7nCTEp7fbyNY4ZRPa2EZKO-jYDLLr-I4IrMzs)
 ```
 [
 	"а":"a","б":"b","в":"v","г":"g","д":"d",
 	"е":"ye","ё":"yo","ж":"j","з":"z","и":"i",
 	"й":"i","к":"k","л":"l","м":"m","н":"n",
-	"о":"o","ө":"u","п":"p","р":"r","с":"s",
-	"т":"t","у":"u","ү":"u","ф":"f","х":"kh",
+	"о":"o","ө":"ö","п":"p","р":"r","с":"s",
+	"т":"t","у":"u","ү":"ü","ф":"f","х":"kh",
 	"ц":"ts","ч":"ch","ш":"sh","щ":"sh","ъ":"i",
-	"ь":"i","ы":"i","э":"e","ю":"yu","я":"ya"
+	"ь":"i","ы":"y","э":"e","ю":"yu","я":"ya"
 ]
 ```
 
