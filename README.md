@@ -54,6 +54,18 @@ Following [MNS 5217 : 2012 standard](https://estandard.gov.mn/standard/v/4635), 
 	"ь":"i","ы":"y","э":"e","ю":"yu","я":"ya"
 ]
 ```
+#### Cyrillic to Mongolian mapping with only english alphabets (banks and passport using these) 
+```
+[
+	"а":"a","б":"b","в":"v","г":"g","д":"d",
+	"е":"ye","ё":"yo","ж":"j","з":"z","и":"i",
+	"й":"i","к":"k","л":"l","м":"m","н":"n",
+	"о":"o","ө":"u","п":"p","р":"r","с":"s",
+	"т":"t","у":"u","ү":"u","ф":"f","х":"kh",
+	"ц":"ts","ч":"ch","ш":"sh","щ":"sh","ъ":"i",
+	"ь":"i","ы":"i","э":"e","ю":"yu","я":"ya"
+]
+```
 
 ### Mongolian provinces in the array (alphabet order)
 ```
