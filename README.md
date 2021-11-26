@@ -28,6 +28,19 @@
 ]
 ```
 
+#### Latin version with only english alphabets (banks and passport using these) 
+```
+[
+	"a","b","v","g","d",
+	"ye","yo","j","z","i",
+	"i","k","l","m","n",
+	"o","u","p","r","s",
+	"t","u","u","f","x",
+	"ts","ch","sh","sh","i",
+	"i","i","e","yu","ya"
+]
+```
+
 #### Cyrillic to Mongolian mapping
 Following [MNS 5217 : 2012 standard](https://estandard.gov.mn/standard/v/4635), following [article on goog.mn](https://gogo.mn/r/101115?fbclid=IwAR3dqT9nqimcDi_VbHeJ5p7nCTEp7fbyNY4ZRPa2EZKO-jYDLLr-I4IrMzs)
 ```
